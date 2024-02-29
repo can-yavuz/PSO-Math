@@ -1,2 +1,2 @@
 # PSO-Math
-Finds the max value of x in a mathematical expression via Particle Swarm Optimization
+Finds the max value of x in a mathematical expression via particle swarm optimization algorithm
